@@ -1,7 +1,7 @@
 {
-  "baseurl": "https://angeal185.github.io/github-forum",
-  "feedurl": "https://api.github.com/repos/angeal185/github-forum-issues/issues",
-  "newsurl": "https://api.github.com/repos/angeal185/github-forum-news/issues",
+  "baseurl": "https://shawnvim.github.io/github-forum",
+  "feedurl": "https://api.github.com/repos/shawnvim/github-forum-issues/issues",
+  "newsurl": "https://api.github.com/repos/shawnvim/github-forum-news/issues",
   "templates": {
     "forum": {
       "title": "github-forum issues feed",
@@ -16,7 +16,7 @@
         "type": "",
         "rel": "",
         "title": "github-forum",
-        "href": "https://angeal185.github.io/github-forum",
+        "href": "https://shawnvim.github.io/github-forum",
         "hreflang": ""
       },
       "category": {
@@ -25,9 +25,9 @@
         "scheme": ""
       },
       "author": {
-        "email": "angeal185@users.noreply.github.com",
-        "name": "angeal185",
-        "uri": "https://github.com/angeal185"
+        "email": "shawnvim@users.noreply.github.com",
+        "name": "shawnvim",
+        "uri": "https://github.com/shawnvim"
       },
       "contributor": ["ben eaves"],
       "entries": []
@@ -45,7 +45,7 @@
         "type": "",
         "rel": "",
         "title": "github-forum",
-        "href": "https://angeal185.github.io/github-forum",
+        "href": "https://shawnvim.github.io/github-forum",
         "hreflang": ""
       },
       "category": {
@@ -54,9 +54,9 @@
         "scheme": ""
       },
       "author": {
-        "email": "angeal185@users.noreply.github.com",
-        "name": "angeal185",
-        "uri": "https://github.com/angeal185"
+        "email": "shawnvim@users.noreply.github.com",
+        "name": "shawnvim",
+        "uri": "https://github.com/shawnvim"
       },
       "contributor": ["ben eaves"],
       "entries": []

@@ -2,13 +2,13 @@ import { routes } from './routes.mjs';
 import { jsonld } from './jsonld.mjs';
 
 // defaults
-const repo = 'angeal185/github-forum-issues',
-news_repo = 'angeal185/github-forum-news',
-report_repo = 'angeal185/github-forum-report',
+const repo = 'shawnvim/github-forum-issues',
+news_repo = 'shawnvim/github-forum-news',
+report_repo = 'shawnvim/github-forum-report',
 report_repo_issue = '1',
 news_id = 142029577,
-origin = 'https://angeal185.github.io/github-forum',
-code_base = 'https://github.com/angeal185/github-forum',
+origin = 'https://shawnvim.github.io/github-forum',
+code_base = 'https://github.com/shawnvim/github-forum',
 github_api = 'https://api.github.com',
 api = origin +'/api',
 issues_feed = origin +'/atom/issues.atom',
@@ -26,7 +26,7 @@ const xdata = Object.assign({
     delete_meta: false,
     webmanifest: './app/manifest.webmanifest',
     base_script_name: 'main',
-    csp: "default-src 'self';img-src *;object-src 'none';frame-src 'none';block-all-mixed-content;upgrade-insecure-requests;connect-src https://angeal185.github.io "+ github_api,
+    csp: "default-src 'self';img-src *;object-src 'none';frame-src 'none';block-all-mixed-content;upgrade-insecure-requests;connect-src https://shawnvim.github.io "+ github_api,
     meta: [{
       name: 'viewport',
       content: 'width=device-width, initial-scale=1'

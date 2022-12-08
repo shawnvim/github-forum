@@ -16,21 +16,21 @@ let jsonld = [{
     "dateModified": "2020-12-21T11:35:49-04:00",
     "datePublished": "2020-11-31T19:48:00-05:00",
     "description": "some description",
-    "downloadUrl": "https://github.com/angeal185/github-forum",
+    "downloadUrl": "https://github.com/shawnvim/github-forum",
     "headline": "github-forum",
     "image": "x:2",
     "inLanguage": "en",
-    "mainEntityOfPage": "https://angeal185.github.io/github-forum",
+    "mainEntityOfPage": "https://shawnvim.github.io/github-forum",
     "name": "github-forum",
     "operatingSystem": "Web Browser",
     "publisher": {
       "id": "x:1"
     },
-    "url": "https://angeal185.github.io/github-forum"
+    "url": "https://shawnvim.github.io/github-forum"
   },{
     "type":"MediaObject",
     "encodingFormat": "application/atom+xml",
-    "contentUrl": "https://angeal185.github.io/github-forum/atom/news.atom",
+    "contentUrl": "https://shawnvim.github.io/github-forum/atom/news.atom",
     "description":	"github-forum news feed",
     "author": {
       "id": "x:1"
@@ -38,7 +38,7 @@ let jsonld = [{
   },{
     "type":"MediaObject",
     "encodingFormat": "application/atom+xml",
-    "contentUrl": "https://angeal185.github.io/github-forum/atom/issues.atom",
+    "contentUrl": "https://shawnvim.github.io/github-forum/atom/issues.atom",
     "description":	"github-forum issues feed",
     "author": {
       "id": "x:1"
@@ -49,42 +49,42 @@ let jsonld = [{
     "itemListElement": [{
         "type": "ListItem",
         "item": {
-            "id": "https://github.com/angeal185/github-forum",
+            "id": "https://github.com/shawnvim/github-forum",
             "name": "Homepage"
         },
         "position": 1
       },{
         "type": "ListItem",
         "item": {
-            "id": "https://github.com/angeal185/github-forum/#/forum",
+            "id": "https://github.com/shawnvim/github-forum/#/forum",
             "name": "Forum"
         },
         "position": 2
       },{
         "type": "ListItem",
         "item": {
-            "id": "https://github.com/angeal185/github-forum/#/news",
+            "id": "https://github.com/shawnvim/github-forum/#/news",
             "name": "News"
         },
         "position": 3
       },{
         "type": "ListItem",
         "item": {
-            "id": "https://github.com/angeal185/github-forum/#/terms",
+            "id": "https://github.com/shawnvim/github-forum/#/terms",
             "name": "Terms"
         },
         "position": 4
       },{
         "type": "ListItem",
         "item": {
-            "id": "https://github.com/angeal185/github-forum/#/contact",
+            "id": "https://github.com/shawnvim/github-forum/#/contact",
             "name": "Contact"
         },
         "position": 5
       },{
         "type": "ListItem",
         "item": {
-            "id": "https://github.com/angeal185/github-forum/#/login",
+            "id": "https://github.com/shawnvim/github-forum/#/login",
             "name": "Login"
         },
         "position": 6
@@ -98,7 +98,7 @@ let jsonld = [{
       "id": "x:2",
       "type": "ImageObject",
       "height": "250",
-      "url": "https://angeal185.github.io/github-forum/app/img/logo.png",
+      "url": "https://shawnvim.github.io/github-forum/app/img/logo.png",
       "width": "250"
     }]
 }]
